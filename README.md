@@ -5,4 +5,4 @@ The repository includes the Rokoko libraries to read the motion capture data and
 
 This project is meant to run from the editor and not as a stand alone exe.
 
-![Alt text]([image link](https://github.com/hiddenDevXR/rokokoQuest/blob/main/resources/rokoko1.PNG)https://github.com/hiddenDevXR/rokokoQuest/blob/main/resources/rokoko1.PNG)
+![Alt text](https://github.com/hiddenDevXR/rokokoQuest/blob/main/resources/rokoko1.PNG)
