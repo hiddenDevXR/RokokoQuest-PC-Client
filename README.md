@@ -4,3 +4,5 @@ This is the client side app for PC. This app pupose is to serve as a bridge betw
 The repository includes the Rokoko libraries to read the motion capture data and the Photon libraires using for networking. The app uses the Rokoko library to translate motion capture data to a humanoid skeletal mesh.
 
 This project is meant to run from the editor and not as a stand alone exe.
+
+![Alt text]([image link](https://github.com/hiddenDevXR/rokokoQuest/blob/main/resources/rokoko1.PNG)https://github.com/hiddenDevXR/rokokoQuest/blob/main/resources/rokoko1.PNG)
